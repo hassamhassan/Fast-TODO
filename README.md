@@ -1,6 +1,6 @@
 # FastAPI-todo
 
-Before running the app assuming that **python 3.8.xx** is installed on development machine
+Before running the app assuming that **python 3.8.xx** is installed on development machine. And PostgreSQL is running on port 5432 
 
 1. Create virtual enviroment with python3.8.xx
 ```shell
