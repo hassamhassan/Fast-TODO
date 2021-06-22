@@ -1,0 +1,6 @@
+fastapi
+uvicorn[standard]
+SQLAlchemy
+async-exit-stack
+async-generator
+psycopg2-binary
